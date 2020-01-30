@@ -20,6 +20,8 @@ Hier ist, so wie es in der Softwareentwicklung propagiert wird, der Ansatz; Benu
 
 #### Welche Lizenzen kommen in der Open Source Welt zum Einsatz?
 -> Link zu einer Liste von vorhanden Lizenzen
+-> Link
+
 * Welche gibt es?
 * Kann ich eine Eigene Lizenz erstellen?
 * Ich möchte explizit KEINE Lizenz verwenden
@@ -30,6 +32,7 @@ Firmen könne oftmals deine Quelltext dann nicht einsetzen, da der rechtlioche S
 
 * Die WTFPL Lizenz
  
+Ein paar Anregungen welche Lic oft in der Industrie verwendet werden. 
 
 #### Welche dieser Lizenzen kann ich in meinem Projekt verwenden?
 Die wichtigste Frage die sich zu Beginn stellt ist die der Verwendung und des Einsatzes der daraus resultierenden Produkte/Dienstleistungen.
