@@ -5,16 +5,16 @@ Goal of this document is to provide some guidance on how to adapt to open source
 The initial version of thisa document was created at the un conference JSpirit in Germany.
 
 ## Please Read carefully
-Dieses Dokument stellt in keinster weise eine rechtliche Beratung oder empfehlung dar. Hier werden lediglich Punkte genannt die einem als Leitfaden diehnen sollen.
-Ideen, Anregungen und weitere Punkte sind sehr gerne gesehen und wir bitten explizit um PR's um dieses manifest weiter auszuarbeiten.
+Dieses Dokument stellt in keinster Weise eine rechtliche Beratung oder Empfehlung dar. Hier werden lediglich Punkte genannt die einem als Leitfaden dienen sollen.
+Ideen, Anregungen und weitere Punkte sind sehr gerne gesehen und wir bitten explizit um PR's um dieses Manifest weiter auszuarbeiten.
 
 ### Use of Open Source
 
 Die Welt der Open Source Projekte ist sehr vielgestalltig und es gibt die unterschiedlichsten Wege sich daran zu beteiligen.
 
-Der erste Schritt ist für die meisten Entwickler der, dass ein Open Source Projekt in irgend einer Weise verwendet wird.
+Der erste Schritt besteht für die meisten Entwickler daraus, dass ein Open Source Projekt in irgend einer Weise verwendet wird.
 
-Beginne wir mit dem einfachsten Weg, der Verwendung von Oepn Source Projekten. Hier handelt es sich meist darum, dass zum Beispiel dem eigenen Softwareprojekt eine Abhängigkeit hinzugefügt wird um vorhandene Implementierungen zu nutzen und nicht selber mit der Synthese dieser Funktionalität zu beginnen.
+Beginne wir mit dem einfachsten Weg, der Verwendung von Open Source Projekten. Hier handelt es sich meist darum, dass zum Beispiel dem eigenen Softwareprojekt eine Abhängigkeit hinzugefügt wird um vorhandene Implementierungen zu nutzen und nicht selber mit der Synthese dieser Funktionalität zu beginnen.
 
 Hier ist, so wie es in der Softwareentwicklung propagiert wird, der Ansatz; Benutze was vorhanden ist und erfinde das Rad nicht neu.
 
@@ -29,7 +29,6 @@ Wenn Du keine Lizenz benennst, oder in den Qulltexten im den Header der Sourcen 
 
 Firmen könne oftmals deine Quelltext dann nicht einsetzen, da der rechtlioche Status in manchen Ländern nicht geklärt oder auch risikobehaftet ist. (dies ist keine Rechtsberatung !!!)
 
-
 * Die WTFPL Lizenz
  
 Ein paar Anregungen welche Lic oft in der Industrie verwendet werden. 
@@ -42,7 +41,6 @@ Verwende ich die Software lediglich selber/in der Firma?
 Biete ich einen Dienst auf der Basis an?
 
 Liefer ich ein Produkt aus?
-
 
 #### Was muss ich sonst noch beachten bei der Verwendeung?
 Beispielhaft sind hier einige Punkte genannt die zum Tragen kommen können. Wichtig ist in diesem zusammenhang, die jeweils betrachtete Lizenz, da sich hieraus die Unterschiede ergeben.
@@ -60,7 +58,7 @@ Wie kann man etwas diesem Projekt zurückgeben?
 ### Contribute to Open Source
 Es gibt sehr viele und auch sehr individuelle Wege und Möglichkeiten wie man sich für ein Open Source Projekt bedanken kann. 
 
-#### Annerkennung
+#### Anerkennung
 Fast jeder freut sich wenn er für seine geleistete Arbeit Annerkennung in irgend einer Form bekommt. Das kann ein Tweet auf Twitter, das kann die Erwähnung auf dem eigenen Blog oder auch eine nette email sein.
 
 #### Publicity
@@ -95,13 +93,28 @@ Reaktionen können mitunter Tage/Wochen dauern. Es besteht kein Anrecht auf die 
 #### Add feature
 
 
-### Aus der Sicht des Maintainers
+### Verwalten eines Open Source Projektes
 
-Ziel sollte es sein das die Regeln, die zur Annahme von Quelltextänderung führen, bakannt und deútlich beschrieben sind. Hierbei muss es sich um messbare Kriterien handeln, die nach Möglichkeit nicht von der persönlichen Empfindung abhängen.
+Mit der Betreuung eines Open Source Projektes ist viel Arbeit verbunden. Ein Open-Source-Projekt endet nicht mit der Veröffentlichung des Quelltextes. Anwender und Unterstützer werden mit Fehlerberichten und Funktionswünschen an einen herantreten und auch Quelltextänderungen beisteuern. In diesem komplexen System aus Geben und Neben ist es wichtig klare Regeln zu definieren. Ziel sollte es sein das die Regeln des Projektes klar definiert und öffentlich zugänglich sind. Hierbei muss es sich um messbare Kriterien handeln, die nach Möglichkeit nicht von der persönlichen Empfindung abhängen. 
 
+#### Kommunikationswege
+In der heutigen Welt gibt es viele Kommunikationsmittel und jedes Projekt setzt auf unterschiedliche Medien. Manche Projekte verwenden einen Issue-Tracker für Fragen und Fehlerberichte, andere bevorzugen Frage über Mailinglisten oder ähnliche Tools. Auch hier kann der Anwender ohne klare Richtlinien schnell ungewollten Mehraufwand auslösen. Umso wichtiger ist es, klare Kommunikationsrichtlinien zu definieren und klar zu kommunizieren.
 
-Wie kommt das Team zu Entscheidungen: Regeln und ..
+#### Quelltextänderungen
+Wichtig ist es die Regeln, die zur Annahme von Quelltextänderung führen, klar und deutlich zu beschreiben.
 
-Tips:
+- Codeformattierung, Testabdeckung
+- Welche Form und Übermittlung, ob Pull-Requests, Patches?
 
-Postkarte für coole Änderungen 
+#### Entscheidungen
+Als Maintainer eines Softwareprojektes muss man Entscheidungen treffen. Da diese auch manchmal zu Unmut unter den Verwendern bzw. Unterstützer führen, muss auf eine klare und offene Kommunikation zur Entscheidungsfindung geachtet werden. Am Besten definiert man im Projekt selbst, wie Entscheidungen getroffen werden, und wer ein Stimmrecht hat.
+
+#### Veröffentlichung
+
+#### Anerkennung
+So wie man sich selbst freut über Anerkennung, so freut sich auch jeder Unterstützer über Anerkennung. Daher sollte man sich die Zeit nehmen und Unterstützer Anerkennung zu kommen lassen egal ob als Erwähnung in den Release-Notes, einem Tweet oder persönlich per E-Mail. Jedoch empfehlen wir zu erst den direkten Kontakt mit dem Unterstützer zu suchen, denn nicht jedem ist es Recht öffentlich genannt zu werden.
+
+Als "Verwalter" eines Open-Source-Projektes besteht auch die Möglichkeit mit realen Gütern sich zu bedanken, wie z.b. Sticker, Postkarten oder Sonstigem. Der Kreativität ist in diesem Fall keine Grenzen gesetzt.
+
+#### Rücksicht
+
