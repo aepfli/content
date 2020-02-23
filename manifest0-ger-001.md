@@ -91,6 +91,10 @@ Da die meisten Open Source Projekte in der Freizeit gepflegt werden, muss man ei
 Reaktionen können mitunter Tage/Wochen dauern. Es besteht kein Anrecht auf die Übernahme der gelieferten Quelltexte. Auch hier ist es hilfreich, wenn man bei der Überstellung der Quelltexte ausdrücklich der von dem Projekt verwendeten Lizenz zustimmt.
  
 ### Add feature
+Eine weitere Stufe ist die Bereitstellung eines neuen Features. Hier nutzt man OpenSource Software und ist sehr aktiv an der Weiterentwicklung des Projektes interessiert. Für den Einsatz im eigenen Unternehmen kann dies sehr von Vorteil sein, da man die Software aktiv nutzt. Auch hier ist es wichtig mit den Maintainer aktiv zu kommunizieren und das neue feature abzustimmen, damit dieses feature auch Teil des OpenSource Projektes wird.
+
+
+### Add project
 
 
 ## Verwalten eines Open Source Projektes
