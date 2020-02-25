@@ -34,6 +34,7 @@ Firmen könne oftmals deine Quelltext dann nicht einsetzen, da der rechtlioche S
 Ein paar Anregungen welche Lic oft in der Industrie verwendet werden. 
 
 ### Welche dieser Lizenzen kann ich in meinem Projekt verwenden?
+
 Die wichtigste Frage die sich zu Beginn stellt ist die der Verwendung und des Einsatzes der daraus resultierenden Produkte/Dienstleistungen.
 
 Verwende ich die Software lediglich selber/in der Firma?
@@ -42,7 +43,9 @@ Biete ich einen Dienst auf der Basis an?
 
 Liefer ich ein Produkt aus?
 
-### Was muss ich sonst noch beachten bei der Verwendeung?
+[Choose a License](https://choosealicense.com/) bietet eine einfache und gute Unterstützung bei der Lizenzfindung, wichtig ist, dass man sich der Aufgaben seines "Produktes" und deren Verwendung sicher ist
+
+### Was muss ich sonst noch beachten bei der Verwendung?
 Beispielhaft sind hier einige Punkte genannt die zum Tragen kommen können. Wichtig ist in diesem zusammenhang, die jeweils betrachtete Lizenz, da sich hieraus die Unterschiede ergeben.
 
 
